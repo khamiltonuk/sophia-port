@@ -1,4 +1,5 @@
-sophia
+Sophia Heron
 ======
 
-sophia portfolio website
+http://www.sophiaheronmakeup.co.uk/
+Sophia's portfolio website
