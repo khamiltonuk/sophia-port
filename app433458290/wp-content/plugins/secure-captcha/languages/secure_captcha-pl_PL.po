@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SecureCAPTCHA\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-24 10:19+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Stanisław Skonieczny <admin@securecaptcha.net>\n"
+"Language-Team: SecureCAPTCHA.net <admin@securecaptcha.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha\n"
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:18
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nie masz uprawnień, aby oglądać tę stronę."
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:42
+msgid "Settings saved. "
+msgstr "Ustawienia zapisane. "
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:50
+msgid "Secure Captcha Plugin Settings"
+msgstr "Ustawienia dodatku Secure CAPTCHA"
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:55
+msgid "To get your Site ID and Private Key log in to the <a href=\"http://www.secureCAPTCHA.net\">secureCAPTCHA.net</a>. "
+msgstr "Aby uzyskać swój ID portalu i klucz prywatny zaloguj się do <a href=\"http://www.secureCAPTCHA.net\">secureCAPTCHA.net</a>. "
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:59
+msgid "Site ID"
+msgstr "ID portalu (Site ID)"
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:64
+msgid "Private key"
+msgstr "Klucz (Private Key)"
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:69
+msgid "Forms"
+msgstr "Formularze"
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:71
+msgid "Register form"
+msgstr "Formularz rejestracji"
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:72
+msgid "Lost password form"
+msgstr "Formularz odzyskiwania hasła"
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:73
+msgid "Comment form"
+msgstr "Formularz komentowania"
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:74
+msgid "Login form"
+msgstr "Formularz logowania"
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:74
+msgid "(Enable this option only when you are sure that plugin is configured correctly and it works on your site. Otherwise, you may be not able to log in as an admin. )"
+msgstr "(Używaj tej opcji tylko wtedy, gdy jesteś pewien, że plugin jest skonfigurowany poprawnie i działa na Twojej stronie. Inaczej możesz mieć problemy z zalogowaniem się jako administrator. )"
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:79
+msgid "Show link to the SecureCAPTCHA.net under the CAPTCHA image. "
+msgstr "Pokazuj link do SecureCAPTCHA.net pod obrazkiem CAPTCHA."
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:96
+msgid "Secure CAPTCHA is almost ready."
+msgstr "Dodatek 'Secure CAPTCHA' jest niemal gotowy do działania."
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/admin.php:96
+#, php-format
+msgid "You have to <a href=\"%1$s\">configure it</a>."
+msgstr "Musisz go <a href=\"%1$s\">skonfigurować</a>."
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/secure_captcha.php:67
+msgid "CAPTCHA is not configured."
+msgstr "Dodatek 'Secure CAPTCHA' nie jest skonfigurowany. "
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/secure_captcha.php:72
+msgid "CAPTCHA request error. Details: "
+msgstr "Błąd żądania CAPTCHA. Szczegóły: "
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/secure_captcha.php:80
+msgid "Rewrite letters from the image above (lower Latin letters only): "
+msgstr "Przepisz litery z obrazka powyżej (tylko małe, łacińskie):"
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/secure_captcha.php:112
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/secure_captcha.php:120
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/secure_captcha.php:128
+msgid "ERROR"
+msgstr "BŁĄD"
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/secure_captcha.php:112
+msgid "Rewrite letters from the CAPTCHA image correctly. "
+msgstr "Przepisz litery z obrazka CAPTCHA poprawnie."
+
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/secure_captcha.php:120
+#: /home/uosiu/php/secureCaptchaWP_svn/secure-captcha/trunk/secure_captcha.php:128
+msgid "Press the \"Back\" button, reload the page and rewrite letters from the CAPTCHA image correctly. "
+msgstr "Naciśnij guzik \"Wstecz\", przeładuj stronę i przepisz litery z obrazka CAPTCHA poprawnie."
+
